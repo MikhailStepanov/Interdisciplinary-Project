@@ -7,3 +7,5 @@ In contrast to the classic own-use properties, such as individual flats, single 
 In this project such machine learning algorithms as Linear, Lasso, Ridge regression, Decision Tree, as well as group of ensemble methods including Random Forest, AdaBoost and LightGBM were applied for this purpose. After intensive data preprocessing process, tuning of hyperparameters and validation of models the median absolute percentage error (best suitable metric for this task) on the test set for the best model of about 8% was achieved which is a very good result, that even outperforms the average error spread in the manual evaluation of objects by different experts.
 
 For more information please read the report. 
+
+The final grade for this project was 1,0. 
